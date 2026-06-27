@@ -10,7 +10,10 @@ Modèle de Langage (LLM) : llama-3.1-8b-instant (via l'infrastructure Groq)
 Base de Données Vectorielle : ChromaDB 
 Interface Utilisateur : Streamlit  
 Langage : Python
-
+1-INTERFACE VS CODE 
 <img width="1842" height="850" alt="image" src="https://github.com/user-attachments/assets/bb758bd2-db8a-4d5c-9559-7fd9880d7d39" />
+2-INTERFACE WEB STREAMLIT
+<img width="1867" height="947" alt="image" src="https://github.com/user-attachments/assets/a4ea03b8-1d44-4193-bcb3-0ff65270b7b8" />
+
 
 
