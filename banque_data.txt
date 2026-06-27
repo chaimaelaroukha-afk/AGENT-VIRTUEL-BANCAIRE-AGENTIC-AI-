@@ -1,0 +1,14 @@
+-- Guide des Procédures et Tarifs Bancaires de la Banque Centrale Populaire --
+
+1. Ouverture de compte : Toute ouverture de compte pour un particulier nécessite la présentation d'une pièce d'identité officielle en cours de validité et d'un justificatif de domicile de moins de 3 mois.
+2. Crédit Immobilier : Le taux d'intérêt fixe appliqué pour les crédits immobiliers ce trimestre est de 4.2%. La durée maximale d'un prêt est de 25 ans.
+3. Plafond de retrait : Le plafond standard de retrait d'espèces aux guichets automatiques avec une carte Visa Classique est fixé à 5 000 dirhams par jour.
+4. Déclarations Nationales : Toute transaction suspecte ou supérieure à 100 000 dirhams doit faire l'objet d'un rapport de conformité transmis à l'Autorité Nationale du Renseignement Financier.
+5. Frais de gestion : Les frais de tenue de compte appliqués par trimestre pour un compte courant standard s'élèvent à 60 dirhams.
+6. Virement international : La commission fixe pour l'émission d'un virement international standard est de 150 dirhams par opération.
+7. Carte Visa Premier : Le plafond d'achat mensuel maximum autorisé avec une carte Visa Premier est fixé à 50 000 dirhams. En cas de dépassement de ce plafond, des frais de dépassement forfaitaires de 100 dirhams s'appliquent.
+8. Horaires : Les horaires d'ouverture au public de l'agence principale le samedi matin sont fixés de 9h00 à 12h30.
+9. Épargne : Le taux d'intérêt annuel brut appliqué sur le Livret d'épargne est actuellement de 2.5%.
+10. Sécurité et Pertes : Les frais de réédition d'un code secret de carte bancaire perdu ou volé s'élèvent à 50 dirhams.
+11. Automates : Il est tout à fait possible d'effectuer un dépôt de chèque directement sur un automate externe ou un guichet automatique de nouvelle génération.
+12. Délais de livraison : Le délai standard de réception d'une nouvelle carte bancaire après validation de la commande est de 5 jours ouvrés.

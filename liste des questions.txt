@@ -1,0 +1,23 @@
+ "Quel est le plafond de retrait maximum autorisé par jour avec une carte Visa Classique de la Banque Centrale Populaire ?",
+        "Quels sont les frais de tenue de compte appliqués par trimestre ?",
+        "Quelle est la commission fixe pour un virement international standard ?",
+        "Quel est le plafond d'achat mensuel avec une carte Visa Premier ?",
+        "Quels sont les horaires d'ouverture de l'agence principale le samedi ?",
+        "Quelles sont les pièces justificatives requises pour ouvrir un compte courant ?",
+        "Quel est le taux d'intérêt annuel appliqué sur le Livret d'épargne ?",
+        "À combien s'élèvent les frais de réédition d'un code secret de carte bancaire perdu ?",
+        "Est-il possible d'effectuer un dépôt de chèque directement sur un automate externe ?",
+        "Quel est le délai standard de réception d'une nouvelle carte bancaire après commande ?",
+        
+        # --- 10 QUESTIONS COMPLEXES ---
+        "Calcule la commission pour un transfert de 150000 DH.",
+        "Si je réalise un transfert de 45000 DH, quel montant exact de commission sera prélevé ?",
+        "Un client souhaite transférer 80000 DH. Calcule sa commission et indique son plafond restant sur une Visa Classique.",
+        "Je dois envoyer 12500 DH à un proche. Quel sera le coût total de l'opération en incluant la commission de 2% ?",
+        "Calcule la commission totale facturée si j'effectue deux transferts de 60000 DH le même jour.",
+        "Si un virement international a une commission de 2%, combine cela avec les frais fixes pour un montant de 200000 DH.",
+        "Fais le calcul de la commission pour un transfert de 350000 DH and explique la procédure de conformité associée.",
+        "Calcule la commission de 2% sur un dépôt exceptionnel de 12000 DH pour un compte soumis aux frais de gestion.",
+        "Si je dépasse mon plafond d'achat de 5000 DH sur une Visa Premier, combien de frais de dépassement vais-je payer ?",
+        "Calcule la commission pour un transfert de 95000 DH et indique si cela nécessite un rapport à l'Autorité Financière."
+    
